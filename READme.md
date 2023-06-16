@@ -1,0 +1,8 @@
+- homebrew
+- node v16.19.0
+- docker
+- EV-key
+- Iterm2, Oh my ZSH (zsh-completions zsh-autosuggestions zsh-syntax-highlighting)
+- slack
+- Spectacle
+- Postman
